@@ -1,0 +1,33 @@
+/* style.css */
+
+.link-container {
+    height: 8em;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: transparent;
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    width: 80%; /* Juster bredden efter behov */
+}
+
+.link {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 5em;
+    cursor: pointer;
+    padding: 10px;
+    background-color: #d9d9d9c5;
+    border: 1px solid #333;
+    border-radius: 5px;
+    text-align: center;
+    flex: 1; /* Gør link-elementerne fleksible for at opnå lige afstand */
+    margin: 0 5px; /* Juster margin efter behov */
+}
+
+.link:hover {
+    background-color: #ddd;
+}

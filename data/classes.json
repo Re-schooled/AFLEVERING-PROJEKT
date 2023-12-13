@@ -1,0 +1,233 @@
+[
+    {
+        "className": "warrior",
+        "title": "Lords of war",
+        "icon": "https://wowclassicdb.com/wotlk/img/Class_Warrior.svg",
+        "classInformation": "Class Information",
+        "classInformationText": "Warriors equip themselves carefully for combat and engage their enemies head-on, letting attacks glance off their heavy armor. They use diverse combat tactics and a wide variety of weapon types to protect their more vulnerable allies. Warriors must carefully master their rage - the power behind their strongest attacks - in order to maximize their effectiveness in combat.",
+        "classDescription": "For as long as war has raged, heroes from every race have aimed to master the art of battle. Warriors combine strength, leadership, and a vast knowledge of arms and armor to wreak havoc in glorious combat. Some protect from the front lines with shields, locking down enemies while allies support the warrior from behind with spell and bow. Others forgo the shield and unleash their rage at the closest threat with a variety of deadly weapons.",
+        "selectImage": "images/Warrior/selectWarrior.webp",
+        "backgroundClassImage": "images/warrior/WarriorBackground.webp",
+        "avatar": "images/warrior/WarriorAvatar.webp",
+        "specializations": [
+            {
+                "name": "Arms",
+                "icon": "images/Warrior/warrior_arms.jpg"
+            },
+            {
+                "name": "Fury",
+                "icon": "images/Warrior/warrior_fury.jpg"
+            },
+            {
+                "name": "Protection",
+                "icon": "images/Warrior/warrior_prot.jpg"
+            }
+        ]
+    },
+        {
+        "className": "paladin",
+        "title": "Paragons of Justice",
+        "icon": "https://wowclassicdb.com/wotlk/img/Class_Paladin.svg",
+        "classInformation": "Class Information",
+        "classInformationText": "Paladins stand directly in front of their enemies, relying on heavy armor and healing in order to survive incoming attacks. Whether with massive shields or crushing two-handed weapons, Paladins are able to keep claws and swords from their weaker fellows - or they use healing magic to ensure that they remain on their feet.",
+        "classDescription": "This is the call of the paladin: to protect the weak, to bring justice to the unjust, and to vanquish evil from the darkest corners of the world. These holy warriors are equipped with plate armor so they can confront the toughest of foes, and the blessing of the Light allows them to heal wounds and, in some cases, even restore life to the dead.",
+        "selectImage": "images/paladin/selectPaladin.webp",
+        "backgroundClassImage": "images/paladin/BackgroundPaladin.webp",
+        "avatar": "images/paladin/PaladinAvatar.webp",
+        "specializations": [
+            {
+                "name": "Holy",
+                "icon": "images/paladin/spell_holy.jpg"
+            },
+            {
+                "name": "Protection",
+                "icon": "images/paladin/spell_prot.jpg"
+            },
+            {
+                "name": "Retribution",
+                "icon": "images/paladin/spell_retri.jpg"
+            }
+        ]
+    },
+        {
+        "className": "hunter",
+        "title": "Inescapable Stalkers",
+        "icon": "https://wowclassicdb.com/wotlk/img/Class_Hunter.svg",
+        "classInformation": "Class Information",
+        "classInformationText": "Hunters battle their foes at a distance or up close, commanding their pets to attack while they nock their arrows, fire their guns, or ready their polearms. Though their weapons are effective at short and long ranges, hunters are also highly mobile. They can evade or restrain their foes to control the arena of battle.",
+        "classDescription": "From an early age, the call of the wild draws some adventurers from the comfort of their homes into the unforgiving primal world outside. Those who endure become hunters. Masters of their environment, they are able to slip like ghosts through the trees and lay traps in the paths of their enemies.",
+        "selectImage": "images/hunter/selectHunter.webp",
+        "backgroundClassImage": "images/hunter/HunterBackground.jpg",
+        "avatar": "images/hunter/HunterAvatar.webp",
+        "specializations": [
+            {
+                "name": "Beast Mastery",
+                "icon": "images/hunter/hunter_BM.jpg"
+            },
+            {
+                "name": "Marksmanship",
+                "icon": "images/hunter/hunter_MM.jpg"
+            },
+            {
+                "name": "Survival",
+                "icon": "images/hunter/hunter_survival.jpg"
+            }
+        ]
+    },
+
+        {
+        "className": "rogue",
+        "title": "Prowling Cutpurses",
+        "icon": "https://wowclassicdb.com/wotlk/img/Class_Rogue.svg",
+        "classInformation": "Class Information",
+        "classInformationText": "Rogues often initiate combat with a surprise attack from the shadows, leading with vicious melee strikes. When in protracted battles, they utilize a successive combination of carefully chosen attacks to soften the enemy up for a killing blow. Rogues must take special care when selecting targets so that their combo attacks are not wasted, and they must be conscious of when to hide or flee if a battle turns against them.",
+        "classDescription": "For rogues, the only code is the contract, and their honor is purchased in gold. Free from the constraints of a conscience, these mercenaries rely on brutal and efficient tactics. Lethal assassins and masters of stealth, they will approach their marks from behind, piercing a vital organ and vanishing into the shadows before the victim hits the ground.",
+        "selectImage": "images/rogue/selectRogue.webp",
+        "backgroundClassImage": "images/rogue/RogueBackground.jpg",
+        "avatar": "images/rogue/RogueAvatar.webp",
+        "specializations": [
+            {
+                "name": "Assassination",
+                "icon": "images/rogue/rogue_assa.jpg"
+            },
+            {
+                "name": "Combat",
+                "icon": "images/rogue/rogue_Combat.jpg"
+            },
+            {
+                "name": "Subtlety",
+                "icon": "images/rogue/rogue_sub.jpg"
+            }
+        ]
+    },
+    
+        {
+        "className": "priest",
+        "title": "Invokers of Light and Darkness",
+        "icon": "https://wowclassicdb.com/wotlk/img/Class_Priest.svg",
+        "classInformation": "Class Information",
+        "classInformationText": "Priests use powerful healing magic to fortify themselves and their allies. They also wield powerful offensive spells from a distance, but can be overwhelmed by enemies due to their physical frailty and minimal armor. Experienced priests carefully balance the use of their offensive powers when tasked with keeping their party alive.",
+        "classDescription": "Priests are devoted to the spiritual, and express their unwavering faith by serving the people. For millennia they have left behind the confines of their temples and the comfort of their shrines so they can support their allies in war-torn lands. In the midst of terrible conflict, no hero questions the value of the priestly orders.",
+        "selectImage": "images/priest/selectPriest.webp",
+        "backgroundClassImage": "images/priest/PriestBackground.jpg",
+        "avatar": "images/priest/PriestAvatar.webp",
+        "specializations": [
+            {
+                "name": "Discipline",
+                "icon": "images/priest/priest_disc.jpg"
+            },
+            {
+                "name": "Holy",
+                "icon": "images/priest/priest_holy.jpg"
+            },
+            {
+                "name": "Shadow",
+                "icon": "images/priest/priest_shadow.jpg"
+            }
+        ]
+    },
+        
+        {
+        "className": "shaman",
+        "title": "Adepts of the Elements",
+        "icon": "https://wowclassicdb.com/wotlk/img/Class_Shaman.svg",
+        "classInformation": "Class Information",
+        "classInformationText": "During combat, shaman place damaging and controlling totems on the ground to maximize their effectiveness while hindering their enemies. Shaman are versatile enough to battle foes up close or at range, but wise shaman choose their avenue of attack based on their enemies strengths and weaknesses.",
+        "classDescription": "Shaman are spiritual guides and practitioners, not of the divine, but of the very elements. Unlike some other mystics, shaman commune with forces that are not strictly benevolent. The elements are chaotic, and left to their own devices, they rage against one another in unending primal fury. It is the call of the shaman to bring balance to this chaos. Acting as moderators among earth, fire, water, and air, shaman summon totems that focus the elements to support the shaman’s allies or punish those who threaten them.",
+        "selectImage": "images/shaman/selectShaman.webp",
+        "backgroundClassImage": "images/shaman/BackgroundShaman.webp",
+        "avatar": "images/shaman/ShamanAvatar.webp",
+        "specializations": [
+            {
+                "name": "Elemental",
+                "icon": "images/shaman/shaman_ele.jpg"
+            },
+            {
+                "name": "Enhancement",
+                "icon": "images/shaman/shaman_enhance.jpg"
+            },
+            {
+                "name": "Restoration",
+                "icon": "images/shaman/shaman_resto.jpg"
+            }
+        ]
+    },
+            
+        {
+        "className": "mage",
+        "title": "Masters of Time and Space",
+        "icon": "https://wowclassicdb.com/wotlk/img/Class_Mage.svg",
+        "classInformation": "Class Information",
+        "classInformationText": "Mages demolish their foes with arcane incantations. Although they wield powerful offensive spells, mages are fragile and lightly armored, making them particularly vulnerable to close-range attacks. Wise mages make careful use of their spells to keep their foes at a distance or hold them in place.",
+        "classDescription": "Students gifted with a keen intellect and unwavering discipline may walk the path of the mage. The arcane magic available to magi is both great and dangerous, and thus is revealed only to the most devoted practitioners. To avoid interference with their spellcasting, magi wear only cloth armor, but arcane shields and enchantments give them additional protection. To keep enemies at bay, magi can summon bursts of fire to incinerate distant targets and cause entire areas to erupt, setting groups of foes ablaze.",
+        "selectImage": "images/mage/selectMage.jpg",
+        "backgroundClassImage": "images/mage/BackgroundMage.webp",
+        "avatar": "images/mage/MageAvatar.webp",
+        "specializations": [
+            {
+                "name": "Arcane",
+                "icon": "images/mage/mage_arcane.jpg"
+            },
+            {
+                "name": "Fire",
+                "icon": "images/mage/mage_fire.jpg"
+            },
+            {
+                "name": "Frost",
+                "icon": "images/mage/mage_frost.jpg"
+            }
+        ]
+    },
+                
+        {
+        "className": "warlock",
+        "title": "Channelers of Forbidden Powers",
+        "icon": "https://wowclassicdb.com/wotlk/img/Class_Warlock.svg",
+        "classInformation": "Class Information",
+        "classInformationText": "Warlocks burn and destroy weakened foes with a combination of crippling illnesses and dark magic. While their demon pets protect and enhance them, warlocks strike at their enemies from a distance. As physically weak spellcasters bereft of heavy armor, cunning warlocks allow their minions to take the brunt of enemy attacks in order to save their own skin.",
+        "classDescription": "In the face of demonic power, most heroes see death. Warlocks see only opportunity. Dominance is their aim, and they have found a path to it in the dark arts. These voracious spellcasters summon demonic minions to fight beside them. At first, they command only the service of imps, but as a warlocks knowledge grows, seductive succubi, loyal voidwalkers, and horrific felhunters join the dark sorcerers ranks to wreak havoc on anyone who stands in their masters way.",
+        "selectImage": "images/warlock/selectWarlock.webp",
+        "backgroundClassImage": "images/warlock/backgroundWarlock.jpg",
+        "avatar": "images/warlock/WarlockAvatar.webp",
+        "specializations": [
+            {
+                "name": "Affliction",
+                "icon": "images/warlock/warlock_affli.jpg"
+            },
+            {
+                "name": "Demonology",
+                "icon": "images/warlock/warlock_demo.jpg"
+            },
+            {
+                "name": "Destruction",
+                "icon": "images/warlock/warlock_destro.jpg"
+            }
+        ]
+    },
+                    
+        {
+        "className": "druid",
+        "title": "Savage Shapeshifters",
+        "icon": "https://wowclassicdb.com/wotlk/img/Class_Druid.svg",
+        "classInformation": "Class Information",
+        "classInformationText": "Druids are versatile combatants, in that they can fulfill nearly every role - healing, tanking, and damage dealing. Its critical that druids tailor the form they choose to the situation, as each form bears a specific purpose.",
+        "classDescription": "Druids harness the vast powers of nature to preserve balance and protect life. With experience, druids can unleash natures raw energy against their enemies, raining celestial fury on them from a great distance, binding them with enchanted vines, or ensnaring them in unrelenting cyclones.",
+        "selectImage": "images/druid/selectDruid.webp",
+        "backgroundClassImage": "images/druid/BackgroundDruid.webp",
+        "avatar": "images/druid/DruidAvatar.webp",
+        "specializations": [
+            {
+                "name": "Balance",
+                "icon": "images/druid/druid_feral.jpg"
+            },
+            {
+                "name": "Feral",
+                "icon": "images/druid/Druid_balance.jpg"
+            },
+            {
+                "name": "Restoration",
+                "icon": "images/druid/druid_resto.jpg"
+            }
+        ]
+    }
+]

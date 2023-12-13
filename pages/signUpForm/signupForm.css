@@ -1,0 +1,71 @@
+/* Style for the signup form container */
+.signup-form-container {
+  max-width: 400px;
+  padding: 20px;
+  background-color: #f5f5f5;
+  border: 1px solid #ddd;
+  border-radius: 5px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+
+  /* Centrer containeren */
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+
+  /* Baggrundsbillede */
+  background-size: cover;
+  /* Gør billedet dækker hele containeren */
+  background-position: center;
+  /* Centrer billedet */
+}
+  
+  /* Style for the form elements */
+  form {
+    display: flex;
+    flex-direction: column;
+  }
+  
+  input {
+    margin-bottom: 10px;
+    padding: 10px;
+    font-size: 16px;
+    border: 1px solid #ddd;
+    border-radius: 3px;
+  }
+
+
+  
+  button {
+    padding: 10px;
+    font-size: 16px;
+    cursor: pointer;
+    background-color: #3498db;
+    border: none;
+    color: #fff;
+    border-radius: 5px;
+  }
+  
+  button:hover {
+    background-color: #2980b9;
+  }
+  
+  /* Style for error and success messages */
+  .error-container,
+  .success-container {
+    margin-top: 10px;
+    padding: 10px;
+    border-radius: 5px;
+    font-size: 14px;
+  }
+  
+  .error-container {
+    background-color: #e74c3c;
+    color: #fff;
+  }
+  
+  .success-container {
+    background-color: #2ecc71;
+    color: #fff;
+  }
+  

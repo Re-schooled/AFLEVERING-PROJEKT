@@ -1,0 +1,61 @@
+/* select.css */
+
+/* Generel nulstilling af margin og padding */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+  
+  body {
+    margin: 0;
+    font-family: 'Arial', sans-serif;
+    background-color: #f4f4f4;
+    background-image: url(images/classesSelectSide/BackGroundSideClasses.webp);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    height: 105vh;
+  }
+  
+  /* Style for containeren */
+  #classSelectContainer {
+    margin-top: 25em;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+  }
+  
+  img {
+    max-width: calc(33.33% - 4em);
+    max-height: 15em;
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    object-position: center 35%; /* Juster dette efter behov */
+    border-radius: 2em;
+    margin: 1em;
+    border: 1px solid white;
+    box-sizing: border-box;
+  }
+  
+  a {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    max-width: calc(33.33% - 4em);
+    max-height: 15em;
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    object-position: center 35%; /* Juster dette efter behov */
+    border-radius: 2em;
+    margin: 1em;
+    border: 1px solid white;
+    box-sizing: border-box;
+    font-family: 'warcraft', sans-serif;
+}
+  
+  img:hover {
+border: solid rgba(248, 248, 144, 0.863)
+  }
